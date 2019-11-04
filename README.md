@@ -19,4 +19,4 @@ This repo contains tutorials for Docker!!
 
 9.     Deploy 2 tier app with docker with link option
 
-10.    Docker compose
+10.     Docker compose
